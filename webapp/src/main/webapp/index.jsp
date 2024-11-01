@@ -39,7 +39,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Diwali and happy new year </h1>
+   <h1> Thankyou, Happy Diwali and Happy New Year 2025 </h1>
 
   
 </form>
