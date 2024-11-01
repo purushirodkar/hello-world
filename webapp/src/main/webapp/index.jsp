@@ -15,17 +15,10 @@
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-    <br>
-
-    <br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
-    <br>
-
-    <br>
-
 
     <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
@@ -39,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Diwali and Happy New Year 2025</h1>
+   <h1> Thank You, Happy Diwali and Happy New Year 2025</h1>
 
   
 </form>
