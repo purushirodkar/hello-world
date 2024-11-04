@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, Happy Diwali and Happy New Year 2025</h1>
+   <h1> Thank You, you have completed CI CD project</h1>
 
   
 </form>
