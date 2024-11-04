@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, you have completed CI CD Project yeayyyyyyyyy</h1>
+   <h1> Thank You, you have completed CI CD Project yeayyyyyy</h1>
 
   
 </form>
